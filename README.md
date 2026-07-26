@@ -2,12 +2,14 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Mohit+%F0%9F%91%8B;Full-Stack+Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Mohit+%F0%9F%91%8B;Full-Stack+Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
+<!-- Social badges -->
 <p>
   <a href="https://www.linkedin.com/in/mohit-nagarkar/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mohitnagarkar2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=FF7139" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=MohitronAI&style=for-the-badge&color=00C7B7&label=PROFILE+VIEWS" />
@@ -24,28 +26,64 @@ role: Full-Stack Software Engineer
 education: Electronics & Telecommunication Undergraduate
 focus: Backend Systems | APIs | Distributed Systems | Dev Infrastructure
 stack: JavaScript/TypeScript · React · Node.js · PostgreSQL · Cloud Deployments
+currently_exploring: Scalable backend architecture & reliable systems at scale
 fun_fact: Probably debugging something at 2 AM with lo-fi in the background 🎧
 ```
 
 ---
 
-## 🧬 System pipeline
+## 🎧 What I'm Vibing To
+
 
 <div align="center">
-  <img src="./pipeline-dag.svg" alt="Skills pipeline DAG" width="700" />
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wlnptpdvm5knnqdb6u34omvmka&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wlnptpdvm5knnqdb6u34omvmka&redirect=true)
+
 </div>
 
-> Each node is a stage in how I build systems — teal = shipped to production, amber = live and running, purple = tooling in progress. This SVG is static; edit `pipeline-dag.svg` directly whenever a stage's status changes.
+<div align="center">
+<i>🎵 Live Spotify activity powered by Spotify GitHub Profile</i>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> ⚠️ **Setup note:** This widget uses [novatorem](https://github.com/novatorem/novatorem) or [spotify-github-profile](https://github.com/kittinan/spotify-github-readme) — both need a **free Vercel deploy** connected to your own Spotify Developer account (Client ID/Secret + refresh token). It shows your currently playing track live, or your last played track when idle. Steps at the bottom of this file. Replace the URL above with your own deployed instance.
 
 ---
 
-## 📟 Live status
+## 🚀 Featured Projects
 
 <div align="center">
-  <img src="./ops-dashboard.svg" alt="Ops-style status dashboard, auto-generated from real GitHub data" width="700" />
-</div>
 
-> This one **actually updates itself** — a GitHub Action runs daily, pulls real commit/star/follower/contribution data via the GitHub GraphQL API, and rewrites `ops-dashboard.svg`. Setup is already included below, nothing further to configure.
+| 🔗 Project | 💡 Description | 🛠️ Stack |
+|---|---|---|
+| **[Project One](#)** | Short one-line pitch of what it does and why it's cool | `Node.js` `PostgreSQL` `React` |
+| **[Project Two](#)** | Short one-line pitch of what it does and why it's cool | `FastAPI` `Redis` `Docker` |
+| **[Project Three](#)** | Short one-line pitch of what it does and why it's cool | `Next.js` `Prisma` `AWS` |
+
+</div>
 
 ---
 
@@ -94,13 +132,24 @@ fun_fact: Probably debugging something at 2 AM with lo-fi in the background 🎧
 
 ---
 
+## 📈 Weekly Coding Activity (WakaTime)
+
+<!--START_SECTION:waka-->
+```text
+Connect WakaTime + the wakatime-action workflow (see setup notes below)
+to auto-populate this block with your real weekly language breakdown.
+```
+<!--END_SECTION:waka-->
+
+---
+
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/MohitronAI/MohitronAI/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
-> Set up via [Platane/snk](https://github.com/Platane/snk) — a GitHub Action that generates an animated snake eating your contribution graph on a daily cron. Steps below.
+> Set up via [Platane/snk](https://github.com/Platane/snk) GitHub Action — auto-generates an animated snake eating your contribution graph, updated daily. Setup steps below.
 
 ---
 

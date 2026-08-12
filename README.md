@@ -1,17 +1,23 @@
+<!--
+  SETUP: find & replace before pushing —
+  GITHUB_USERNAME → your GitHub username (for all stats/snake URLs below)
+  YOUR_LINKEDIN   → your LinkedIn profile URL
+  YOUR_EMAIL      → your email address
+-->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00C7B7,100:7C3AED&height=200&section=header&text=Hi%20There,%20I'm%20Mohit&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F19,50:00E5FF,100:FF6B35&height=200&section=header&text=Hi%20There,%20I'm%20Erwin&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C7B7&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;Backend+%26+Distributed+Systems+Enthusiast;Building+Scalable+Web+Apps+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Lead+Robotics+Software+Engineer;Autonomy+%C2%B7+Path+Planning+%C2%B7+Motion+Control;Building+Systems+That+Move+%F0%9F%A4%96;Sensor+Fusion+%26+UGV+Navigation" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/mohit-nagarkar/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=00C7B7&labelColor=0D1117" /></a>
-<a href="mailto:mohitnagarkar2005@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=flat-square&logo=gmail&logoColor=00C7B7&labelColor=0D1117" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=flat-square&logo=firefox&logoColor=00C7B7&labelColor=0D1117" /></a>
-<img src="https://komarev.com/ghpvc/?username=MohitronAI&style=flat-square&color=00C7B7&label=PROFILE+VIEWS" />
+<a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0B0F19?style=flat-square&logo=linkedin&logoColor=00E5FF&labelColor=0B0F19" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0B0F19?style=flat-square&logo=gmail&logoColor=00E5FF&labelColor=0B0F19" /></a>
+<img src="https://komarev.com/ghpvc/?username=GITHUB_USERNAME&style=flat-square&color=00E5FF&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -20,40 +26,56 @@
 ### `$ whoami`
 
 ```yaml
-name: Mohit Nagarkar
-role: Full-Stack Software Engineer
-education: Electronics & Telecommunication Undergraduate
-focus: Backend Systems · APIs · Distributed Systems · Dev Infrastructure
-currently_building: A scalable backend architecture playground
-ask_me_about: system design, API architecture, cloud infra
-fun_fact: Probably debugging something at 2 AM with lo-fi in the background 🎧
+name: Erwin Lejeune
+role: Lead Robotics Software Engineer
+company: Technology Innovation Institute
+based_in: Abu Dhabi, UAE
+originally_from: Nantes, France
+education: Master's in Robotics · Master's in Embedded Systems · Bachelor's in Electronics
+focus: Autonomy · Path Planning · Sensor Fusion · Embedded Systems
 ```
 
 ---
 
-### `$ now_playing`
+### `$ git log --oneline --all career`
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31wlnptpdvm5knnqdb6u34omvmka&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=00C7B7&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31wlnptpdvm5knnqdb6u34omvmka&redirect=true)
+| Role | Focus | Company | Location | Duration |
+|---|---|---|---|---|
+| Team Lead | Autonomy | SIRBAI | UAE | 2026 – Now |
+| Team Lead | Autonomy | Technology Innovation Institute | UAE | 2022 – Now |
+| Principal Solutions Engineer | Web3, AI | Unchained Labs | Stealth | 2024 – Now |
+| Sr. Robotics Software Engineer | UGV Navigation | Coalescent Mobile Robotics | Denmark | 2021 – 2022 |
+| Backend Software Engineer | Web App Backend (Go/Postgres) | Hiventive | Fully Remote | 2020 – 2021 |
+| Robotics Researcher | AI Planning/Control | LS2N | France | 2019 – 2021 |
+| Robotics Intern | UGVs | Ingeniarius | Portugal | 2019 |
+| Embedded Systems Engineer | STM32 Virtualization | Hiventive | France | 2018 – 2019 |
+| Robotics Intern | UGVs | LS2N (Laboratory of Digital Sciences of Nantes) | France | 2019 |
 
 </div>
-
-> ⚠️ **Setup:** needs a free [novatorem](https://github.com/novatorem/novatorem) / [spotify-github-profile](https://github.com/kittinanx/spotify-github-readme) deploy tied to your own Spotify Developer app (Client ID/Secret + refresh token). Shows live or last-played track.
 
 ---
 
-### `$ ls ./featured-projects`
+### `$ grep -r "core_expertise" ./`
 
-<div align="center">
+**Fields of Interest**
+<br/>
+![](https://img.shields.io/badge/Path%20Planning-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Trajectory%20Planning-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Path%20Following-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Behaviour%20Planning-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Localization-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Sensor%20Fusion-00E5FF?style=flat-square)
+![](https://img.shields.io/badge/Embedded%20Systems-00E5FF?style=flat-square)
 
-| Project | What it does | Stack |
-|---|---|---|
-| **[Project One](#)** | One-line pitch of what it does and why it's cool | `Node.js` `PostgreSQL` `React` |
-| **[Project Two](#)** | One-line pitch of what it does and why it's cool | `FastAPI` `Redis` `Docker` |
-| **[Project Three](#)** | One-line pitch of what it does and why it's cool | `Next.js` `Prisma` `AWS` |
-
-</div>
+**Technical Background**
+<br/>
+![](https://img.shields.io/badge/Motion%20Planning-FF6B35?style=flat-square)
+![](https://img.shields.io/badge/Optimization-FF6B35?style=flat-square)
+![](https://img.shields.io/badge/Nonlinear%20Control-FF6B35?style=flat-square)
+![](https://img.shields.io/badge/Real--Time%20Systems-FF6B35?style=flat-square)
+![](https://img.shields.io/badge/Automated%20Planning-FF6B35?style=flat-square)
 
 ---
 
@@ -63,25 +85,34 @@ fun_fact: Probably debugging something at 2 AM with lo-fi in the background 🎧
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,py,kotlin,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,go,c&theme=dark" />
 
-**Frontend**
+**Robotics & Embedded**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,bootstrap,html,css&theme=dark" />
+<img src="https://skillicons.dev/icons?i=arduino,matlab&theme=dark" />
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" />
 
-**Backend**
+**Currently Learning: Web**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,flask,django,spring&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,vue&theme=dark" />
 
-**Databases & Cache**
+**Backend, Data & Infra**
 <br/>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis,firebase,prisma&theme=dark" />
-
-**Cloud, DevOps & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel,nginx,githubactions,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,docker,git,linux&theme=dark" />
 
 </div>
+
+---
+
+### `$ tail -f roadmap.log`
+
+```bash
+$ currently_learning
+Web3 → React → Vue
+
+$ will_learn
+Blockchain (backend)
+```
 
 ---
 
@@ -90,41 +121,30 @@ fun_fact: Probably debugging something at 2 AM with lo-fi in the background 🎧
 <table align="center">
 <tr>
 <td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.shion.dev/api?username=MohitronAI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img width="100%" src="https://github-readme-stats.shion.dev/api?username=GITHUB_USERNAME&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
 </td>
 <td valign="top" width="50%">
-<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MohitronAI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img width="100%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=GITHUB_USERNAME&theme=cobalt&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </td>
 </tr>
 </table>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=MohitronAI&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=GITHUB_USERNAME&theme=cobalt&hide_border=true" />
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitronAI&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=cobalt-dark&hide_border=true&area=true" />
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohitronAI&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=GITHUB_USERNAME&theme=algolia&no-frame=true&row=1&column=7" />
 </div>
 
 ---
 
-### `$ waka --weekly`
-
-<!--START_SECTION:waka-->
-```text
-Connect WakaTime + the wakatime-action workflow (see setup notes below)
-to auto-populate this block with your real weekly language breakdown.
-```
-<!--END_SECTION:waka-->
-
----
-
 <div align="center">
-<img src="https://raw.githubusercontent.com/MohitronAI/MohitronAI/output/github-contribution-grid-snake.svg" alt="snake animation" />
+<img src="https://raw.githubusercontent.com/GITHUB_USERNAME/GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 > Generated via [Platane/snk](https://github.com/Platane/snk) GitHub Action — an animated snake eating your contribution graph, updated daily.
@@ -132,20 +152,11 @@ to auto-populate this block with your real weekly language breakdown.
 ---
 
 <div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
 
----
+### `$ off_duty`
 
-<div align="center">
-
-### `$ get_in_touch`
-
-Always open to talking backend architecture, distributed systems, or interesting side projects.
-
-<a href="https://www.linkedin.com/in/mohit-nagarkar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=flat-square&logo=linkedin&logoColor=00C7B7&labelColor=0D1117" /></a>
-<a href="mailto:mohitnagarkar2005@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-0D1117?style=flat-square&logo=gmail&logoColor=00C7B7&labelColor=0D1117" /></a>
+🏀 Basketball&nbsp;&nbsp;·&nbsp;&nbsp;🎬 Cinema&nbsp;&nbsp;·&nbsp;&nbsp;🎮 Competitive Gaming&nbsp;&nbsp;·&nbsp;&nbsp;🔧 IoT
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:00C7B7,100:0D1117&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:00E5FF,100:0B0F19&height=120&section=footer&animation=fadeIn" width="100%"/>

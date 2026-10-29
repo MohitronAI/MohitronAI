@@ -3,11 +3,24 @@
 
 # Mohit Nagarkar
 
-### Software Developer · Full-Stack Engineer · Backend Systems
+### Software Developer · Full-Stack Engineering · Backend Systems
 
 Electronics & Telecommunication Engineering Undergraduate
 
-[Portfolio](https://mohitronai.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohit-nagarkar/) · [Email](mailto:mohitnagarkar2005@gmail.com) · [GitHub](https://github.com/MohitronAI)
+<a href="https://www.linkedin.com/in/mohit-nagarkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://mohitronai.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Website-333333?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+</a>
+<a href="mailto:mohitnagarkar2005@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/MohitronAI">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=MohitronAI&style=flat-square&color=555555&label=PROFILE+VIEWS" alt="Profile views" />
 
 </div>
 
@@ -15,15 +28,16 @@ Electronics & Telecommunication Engineering Undergraduate
 
 ## About Me
 
-I am a software developer interested in building reliable web applications, backend services, and practical engineering solutions. My work spans full-stack development, API design, database integration, and software deployment, with additional interests in computer vision and embedded systems.
+I build full-stack web applications and backend services, with an interest in API design, database systems, cloud deployment, and maintainable software architecture.
 
-I enjoy taking projects from an initial idea to a working implementation — designing components, integrating services, testing functionality, debugging issues, and improving maintainability.
+My experience spans end-to-end feature development, RESTful APIs, third-party integrations, authentication, and frontend engineering. I also explore computer vision and embedded systems through academic projects that connect software with real-world applications.
 
-- **Experience:** Full-Stack Developer Intern at Maestro Intellect.
-- **Backend:** REST APIs, authentication, database integration, and asynchronous request handling.
-- **Frontend:** React, TypeScript, and component-based application development.
-- **Systems:** Exploring cloud infrastructure, DevOps, computer vision, and embedded systems.
-- **Currently focused on:** Strengthening software engineering fundamentals and building practical projects.
+- **Currently focused on:** Full-stack engineering, backend development, and software design.
+- **Backend:** REST APIs, authentication, asynchronous request handling, and database integration.
+- **Frontend:** React, TypeScript, and reusable UI components.
+- **Cloud & DevOps:** Exploring AWS, Docker, and CI/CD workflows.
+- **Embedded & Vision:** Developing the proposed VisionGuide assistive technology system.
+- **Career interests:** Software engineering, backend systems, and scalable applications.
 
 ## Technical Skills
 
@@ -31,80 +45,81 @@ I enjoy taking projects from an initial idea to a working implementation — des
   <tr>
     <td width="33%" valign="top">
 
-### Programming Languages
+### Languages
 
-- C
-- C++
-- Java
-- JavaScript
-- TypeScript
-- Python
-- SQL
-- Embedded C
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 
     </td>
     <td width="33%" valign="top">
 
-### Backend & Systems
+### Backend & APIs
 
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Google OAuth
-- Third-Party API Integration
-- Asynchronous Programming
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white" alt="Express" />
+<img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square" alt="REST APIs" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+<img src="https://img.shields.io/badge/Google_OAuth-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google OAuth" />
+
+**Focus:** API design, authentication, integrations, asynchronous operations.
 
     </td>
     <td width="33%" valign="top">
 
 ### Web Development
 
-- React
-- Next.js
-- HTML5
-- CSS3
-- Responsive Interfaces
-- Component-Based Development
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+
+**Focus:** Component architecture, responsive interfaces, TypeScript.
 
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top">
+    <td valign="top">
 
 ### Databases
 
-- PostgreSQL
-- MongoDB
-- MySQL
-- Prisma
-- Database Design
-- SQL Queries
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+
+**Focus:** Data modeling, queries, application data access.
 
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
 
 ### Cloud & DevOps
 
-- AWS
-- Docker
-- Git & GitHub
-- GitHub Actions
-- CI/CD Fundamentals
-- Linux
-- Vercel
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+
+**Focus:** Deployment, containers, CI/CD fundamentals.
 
     </td>
-    <td width="33%" valign="top">
+    <td valign="top">
 
-### Embedded & Computer Vision
+### Embedded & Vision
 
-- Arduino
-- ESP32
-- OpenCV
-- MediaPipe
-- Computer Vision Fundamentals
-- Hardware–Software Integration
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square" alt="ESP32" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square" alt="MediaPipe" />
+<img src="https://img.shields.io/badge/Embedded_C-00599C?style=flat-square" alt="Embedded C" />
+
+**Focus:** Hand tracking, image processing, hardware integration.
 
     </td>
   </tr>
@@ -113,13 +128,13 @@ I enjoy taking projects from an initial idea to a working implementation — des
 ## What I Build
 
 | Area | Focus |
-|---|---|
-| Full-Stack Development | Web applications, reusable UI components, and end-to-end feature implementation |
-| Backend Engineering | REST APIs, authentication, asynchronous operations, and service integration |
-| Database Systems | Data modeling, relational and document databases, and application data access |
-| Cloud & DevOps | Deployment workflows, containers, CI/CD fundamentals, and cloud platforms |
-| Computer Vision | Image processing, hand tracking, and AI-assisted visual applications |
-| Embedded Systems | Microcontrollers, sensor integration, and software–hardware interaction |
+|:---|:---|
+| **Full-Stack Development** | End-to-end web features, reusable components, and application workflows |
+| **Backend Engineering** | REST APIs, authentication, asynchronous operations, and service integrations |
+| **Database Systems** | Relational and document databases, data modeling, and persistence |
+| **Cloud & DevOps** | Deployment, containerization, and CI/CD fundamentals |
+| **Computer Vision** | Landmark-based hand detection and AI-assisted visual applications |
+| **Embedded Systems** | Microcontrollers, mobile interfaces, and hardware–software integration |
 
 ## Professional Experience
 
@@ -143,36 +158,40 @@ A full-stack application for creating and managing digital agreements, with auth
 - Implemented email/password authentication and Google OAuth.
 - Used JWT-based authentication for application access.
 - Developed frontend and backend workflows for agreement management.
-- Explored PDF generation and email integration.
+- Worked with PDF generation and email integration.
 
-**Tech Stack:** React, TypeScript, Node.js, Express.js, PostgreSQL
+**Tech Stack:** React · TypeScript · Node.js · Express.js · PostgreSQL
 
-[Source Code](https://github.com/MohitronAI/DAgreement) · [Live Demo](https://d-aagreement.vercel.app)
+[Repository](https://github.com/MohitronAI/DAgreement) · [Live Demo](https://d-aagreement.vercel.app)
+
+---
 
 ### 2. VisionGuide — AI-Powered Vision Assistance
 
-An academic project exploring a wearable vision assistance system for visually impaired people.
+An academic project exploring assistive vision technology for visually impaired people.
 
 - Proposes an ESP32 camera that transfers images to a smartphone over Wi-Fi.
-- Uses the smartphone as the proposed processing unit.
+- Uses the smartphone as the proposed image-processing unit.
 - Explores object detection, OCR, scene understanding, and spoken feedback.
 - Proposes Bluetooth audio output for voice guidance.
 
-**Technologies:** Computer Vision, Python, ESP32, Mobile Applications
+**Technologies:** Python · Computer Vision · ESP32 · Mobile Applications
 
-*The proposed hardware architecture and end-to-end integration are still under development and validation.*
+*Proposed architecture; hardware integration and end-to-end validation are in progress.*
 
-[Source Code](https://github.com/MohitronAI/VisionGuide)
+[Repository](https://github.com/MohitronAI/VisionGuide)
+
+---
 
 ### 3. Shetisakha — Agricultural Robotics
 
-An agricultural technology project combining an Agribot, a mobile application, and embedded systems.
+An agricultural technology project combining an Agribot, a mobile application, and embedded hardware.
 
-- Combines mobile software with robotics and embedded hardware.
+- Combines mobile application development with robotics and embedded systems.
 - Uses Flutter for the Android application.
 - Uses Arduino and Embedded C for hardware-related functionality.
 
-**Technologies:** Flutter, Dart, Arduino, Embedded C
+**Technologies:** Flutter · Dart · Arduino · Embedded C
 
 ## Certifications
 
@@ -181,46 +200,49 @@ An agricultural technology project combining an Agribot, a mobile application, a
 - DevOps — Skill Up
 - DevOps Engineering with AI
 
-Relevant topics include CI/CD, infrastructure as code, monitoring and logging, cloud platforms, containerization, and DevOps practices.
+Relevant learning areas include CI/CD, infrastructure as code, monitoring and logging, cloud platforms, containerization, and DevOps practices.
 
 ## Achievements & Leadership
 
-- **Vice President — ECESA:** 2026–2027.
-- **Finance Head — ECESA:** 2024–2025.
-- **Finance Head — Departmental Forum, Government Polytechnic Nagpur:** 2022–2024.
-- **Technical Writing:** Published articles on Brain–Computer Interfaces and AI, and cloud computing, in the college magazine *COMMUNICA*.
+- **Vice President — ECESA:** 2026–2027
+- **Finance Head — ECESA:** 2024–2025
+- **Finance Head — Departmental Forum, Government Polytechnic Nagpur:** 2022–2024
+- **Technical Writing:** Published college-magazine articles on Brain–Computer Interfaces and AI, and cloud computing, in *COMMUNICA*.
 
 ## Education
 
 **B.E. — Electronics and Telecommunication Engineering**  
-Anantrao Pawar College of Engineering & Research | 2024–2027
+Anantrao Pawar College of Engineering & Research · 2024–2027
 
 **Diploma — Information Technology**  
-Government Polytechnic, Nagpur | 2021–2024
+Government Polytechnic, Nagpur · 2021–2024
 
 ## GitHub Activity
 
 <div align="center">
 
 <a href="https://github.com/MohitronAI">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohitronAI&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MohitronAI&show_icons=true&hide_border=true&theme=default&rank_icon=github" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/MohitronAI?tab=repositories">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitronAI&layout=compact&hide_border=true&theme=default" alt="Most used programming languages" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitronAI&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Most used programming languages" />
 </a>
 
 </div>
 
-## Connect
+## Connect With Me
 
 <div align="center">
 
-[Portfolio](https://mohitronai.github.io/) · [LinkedIn](https://www.linkedin.com/in/mohit-nagarkar/) · [GitHub](https://github.com/MohitronAI) · [Email](mailto:mohitnagarkar2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-nagarkar/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-333333?style=flat-square&logo=googlechrome&logoColor=white)](https://mohitronai.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohitnagarkar2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/MohitronAI)
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Learn continuously. Build thoughtfully. Engineer reliably.</sub>
+  <sub>Learn continuously · Build thoughtfully · Engineer reliably</sub>
 </div>

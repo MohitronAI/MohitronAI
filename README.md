@@ -175,7 +175,8 @@ An agricultural technology project combining an Agribot, an Android application,
 
 ## Education
 
-**B.E. Anantrao Pawar College of Engineering & Research · 2024–2027
+**B.E. Electronics and Telecommunication Engineering**
+Anantrao Pawar College of Engineering & Research · 2024–2027
 
 
 **Diploma · Information Technology**  
